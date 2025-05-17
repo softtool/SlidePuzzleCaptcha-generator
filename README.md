@@ -1,0 +1,2 @@
+# SlidePuzzleCaptcha
+SlidePuzzleCaptcha generator
